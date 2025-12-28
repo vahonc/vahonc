@@ -2,7 +2,7 @@
 🧔 My name is Vadym and I'm from Ukraine 🇺🇦
 
 <ul>
-<li type="square">💼 I'm a Fullstack Magento Developer with over 12+ years of experience in Web development and 10+ years specializing in Magento.</li>
+<li type="square">💼 I'm a Fullstack Magento Developer with over 15+ years of experience in Web development and 10+ years specializing in Magento.</li>
 <li type="square">👨‍💻 I've journeyed through the light and dark sides of the Magento ecosystem, mastering its complexities and unleashing its potential.</li>
 <li type="square">💻 Crafting elegant solutions with PHP, MySQL, JavaScript, and more!</li>
 <li type="square">🚀 My expertise spans from crafting bespoke extensions and integrating cutting-edge code functionalities in web development.</li>
